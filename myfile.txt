@@ -5,8 +5,9 @@ mkdir tutorial
 add
 
 <<<<<<< HEAD
-issue2·ÖÖ§²Ù×÷
+issue2åˆ†æ”¯æ“ä½œ
 =======
-issue3²Ù×÷
->>>>>>> issue3æ“ä½œ
-ºÏ²¢issue3·ÖÖ§
+issue3æ“ä½œ
+>>>>>>> issue3é¿å¶„ç¶”
+åˆå¹¶issue3åˆ†æ”¯
+æµ‹è¯•pullå’Œfetch
